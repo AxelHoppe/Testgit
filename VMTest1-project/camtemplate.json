@@ -1,0 +1,14 @@
+{
+   "name": "VMTest1-project",
+   "description": "Description for VMTest1-project.",
+   "type": "userCreated",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "HCL",
+     "template_provider": "Other"
+   },
+   "metadata": {
+     "displayName": "VMTest1-project",
+     "bullets": []
+   }
+ }
